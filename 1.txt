@@ -1,0 +1,29 @@
+1. All 'Buy with ETH' button works same way 'Buy with ETH' working, but only change will see in input price and thankyou url changes
+Button 1: 'Buy with ETH'
+input: 20$,http://thebitcoin.in/hotelscript/thankyou.php
+After user click on confirm and able to see given ETH number [equal to ethamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou.php else ask for wait and  click on confirm again.
+
+Button 2: 'Buy with ETH'
+input: 40$,http://thebitcoin.in/hotelscript/thankyou1.php
+After user click on confirm and able to see given ETH number [equal to ethamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou1.php else ask for wait and  click on confirm again.
+
+Button 2: 'Buy with ETH'
+input: 100$,http://thebitcoin.in/hotelscript/thankyou2.php
+After user click on confirm and able to see given ETH number [equal to ethamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou2.php else ask for wait and  click on confirm again.
+
+means only amount and url will be differ
+
+2. All 'Buy with IOTA' button works same way 'Buy with IOTA' working, but only chanegw e will see in input price and thankyou url changes
+Button 1: 'Buy with IOTA'
+input: 20$,http://thebitcoin.in/hotelscript/thankyou.php
+After user click on confirm and able to see given IOTA number [equal to iotamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou.php else ask for wait and  click on confirm again.
+
+Button 2: 'Buy with IOTA'
+input: 40$,http://thebitcoin.in/hotelscript/thankyou1.php
+After user click on confirm and able to see given IOTA number [equal to iotamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou1.php else ask for wait and  click on confirm again.
+
+Button 2: 'Buy with IOTA'
+input: 100$,http://thebitcoin.in/hotelscript/thankyou2.php
+After user click on confirm and able to see given IOTA number [equal to iotamount in table] from url data will redirect to  http://thebitcoin.in/hotelscript/thankyou2.php else ask for wait and  click on confirm again.
+
+means only Amount and url and checking IOTA received url will be differ
